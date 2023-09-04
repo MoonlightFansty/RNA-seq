@@ -1,1 +1,1 @@
-# Transcriptome
+# RNA sequencing
